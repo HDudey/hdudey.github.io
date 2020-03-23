@@ -1,9 +1,9 @@
-title:              HDudey's Blog
+title:              HD's Blog
 email:              your-email@example.com
 description:        To post about develop skills
-author:             Start Bootstrap
+author:             hdudey
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
-baseurl:            "/"
+baseurl:            ""
 
 url:                "https://hdudey.github.io"
 #url:                "127.0.0.1:4000"
