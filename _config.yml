@@ -5,7 +5,7 @@ author:             hdudey
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
 baseurl:            ""
 
-url:                "https://hdudey.github.io"
+url:                "https://hdudey.github.io/"
 #url:                "127.0.0.1:4000"
 
 # Social Profiles
