@@ -3,7 +3,7 @@ email:              your-email@example.com
 description:        To post about develop skills
 author:             hdudey
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
-baseurl:            ""
+baseurl:            "/hd"
 
 url:                "https://hdudey.github.io"
 #url:                "127.0.0.1:4000"
